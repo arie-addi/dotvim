@@ -1,3 +1,4 @@
+execute pathogen#infect()
 colorscheme murphy
 syntax on
 set ts=4 shiftwidth=4
